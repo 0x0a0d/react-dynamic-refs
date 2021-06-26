@@ -1,0 +1,33 @@
+{
+  "name": "@cylution/react-dynamic-refs",
+  "version": "1.0.0",
+  "description": "react dynamic refs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react native",
+    "ref",
+    "useRef",
+    "dynamic"
+  ],
+  "author": "0x0a0d",
+  "license": "ISC",
+  "devDependencies": {
+    "@cylution/eslint-config-react-native": "^1.0.11",
+    "eslint": "^7.29.0"
+  },
+  "repository": {
+    "url": "https://github.com/0x0a0d/react-dynamic-refs",
+    "type": "git"
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ]
+}
