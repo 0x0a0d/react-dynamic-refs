@@ -4,4 +4,4 @@ type DynamicRefs = {
   [k: string]: MutableRefObject<any>|RefObject<any>
 }
 
-export const useDynamicRefs: DynamicRefs
+export const useDynamicRefs: (targetObject?: DynamicRefs) => DynamicRefs
