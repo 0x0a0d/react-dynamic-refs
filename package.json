@@ -1,6 +1,6 @@
 {
   "name": "@cylution/react-dynamic-refs",
-  "version": "1.0.1-0",
+  "version": "1.0.1",
   "description": "react dynamic refs",
   "main": "index.js",
   "scripts": {
