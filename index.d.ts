@@ -1,6 +1,6 @@
 import { MutableRefObject, RefObject } from "react";
 
-type DynamicRefs = {
+export type DynamicRefs = {
   [k: string]: MutableRefObject<any>|RefObject<any>
 }
 
